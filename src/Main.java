@@ -2,7 +2,7 @@ import attributes.*;
 
 public class Main{
 
-    public void main(String[]  args)
+    public static void main(String[]  args)
     {
         System.out.println("\nCreating Objects\n");
         Circle newCircle = new Circle(4,"Blue",ShapeType.CIRCLE);
